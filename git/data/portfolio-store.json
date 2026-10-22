@@ -1,0 +1,205 @@
+{
+  "adminPasscodeHash": "admin2026",
+  "siteContent": {
+    "home": {
+      "greeting": "Hello, I'm",
+      "name": "Ngô Vương Thành Đạt",
+      "title": "Multimedia Designer",
+      "tagline": "Multimedia Communications student with a strong aesthetic sense and a solid foundation in visual production.",
+      "intro": "Looking forward to contributing creative ideas to support brands digital marketing campaigns and brand assets in a fast-paced, international environment.",
+      "statusBadge": "Open for Creative Design & Multimedia Collaborations",
+      "avatarUrl": "/assets/aistudio/image_6ef505e0.png"
+    },
+    "about": {
+      "title": "About Me & Professional Background",
+      "bio": [
+        "A Multimedia Communications student with a strong aesthetic sense and a solid foundation in visual production.",
+        "Looking forward to contributing creative ideas to support brands digital marketing campaigns and brand assets in a fast-paced, international environment."
+      ],
+      "philosophy": "Visual design is the bridge between brand strategy, aesthetic discipline, and audience emotion.",
+      "education": {
+        "degree": "Bachelor of Multimedia Communications",
+        "institution": "UMT University Vietnam",
+        "period": "2024 – 2028"
+      },
+      "skills": [
+        "Graphic Design",
+        "Video & Post-Production",
+        "Photography & Live Event Coverage",
+        "Colour Grading",
+        "AI-Integrated Asset Creation",
+        "AI Research & Application",
+        "Visual Branding & Digital Marketing Assets"
+      ],
+      "tools": [
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Adobe Lightroom",
+        "Adobe Premiere Pro",
+        "Capcut Pro",
+        "Canva"
+      ],
+      "approach": "I approach every creative campaign with end-to-end discipline: from conceptual visual identity and key poster designs to high-engagement social media assets and calibrated video finishing.",
+      "experiences": [
+        {
+          "role": "Multimedia Communications Collaborator",
+          "organization": "SMA – UMT",
+          "period": "2024 – 2026",
+          "highlights": [
+            "Operated the official faculty fanpage; designed core media assets (posters, infographics, photo quotes) and covered on-site live event photography.",
+            "Maintained consistent visual branding and boosted student engagement across faculty media channels."
+          ]
+        },
+        {
+          "role": "Head of Media and Events",
+          "organization": "Young Economists Club – UMT",
+          "period": "2024 – Present",
+          "highlights": [
+            "Led end-to-end media production (video, photo, graphics) and managed event execution teams.",
+            "Served on the Core Organizing Committee for Meet & Connect Hackathon DigiPort Logistics 2025 and Orientation Day 2026.",
+            "Successfully coordinated media and logistics for 3 flagship events, reaching hundreds of participants university-wide."
+          ]
+        },
+        {
+          "role": "Lead Graphic Designer",
+          "organization": "Once Upon A Night – USSH Hanoi",
+          "period": "2026",
+          "highlights": [
+            "Conceptualized and designed key visual posters with a cinematic, high-contrast theme; developed digital creative layouts across online platforms.",
+            "Successfully established a cohesive visual identity for the European-style Cosplay Prom, capturing strong audience interest and digital interaction."
+          ]
+        }
+      ],
+      "languages": [
+        { "language": "Vietnamese", "level": "Native" },
+        { "language": "English", "level": "IELTS 6.5 (Professional Working Proficiency)" }
+      ]
+    },
+    "contacts": {
+      "email": "ngovuongthanhdat@gmail.com",
+      "phone": "(+84) 789 501 892",
+      "location": "Thu Duc, Ho Chi Minh City, Vietnam",
+      "socials": {
+        "instagram": "https://instagram.com"
+      }
+    }
+  },
+  "projects": [
+    {
+      "id": "proj-once-upon-a-night",
+      "slug": "once-upon-a-night-prom",
+      "title": "Once Upon A Night: Prom Key Visuals",
+      "year": "2026",
+      "category": "Graphic Design",
+      "status": "published",
+      "isFeatured": true,
+      "orderIndex": 1,
+      "shortDescription": "Cinematic, high-contrast key visual posters and promotional identity for European-style Cosplay Prom at USSH Hanoi.",
+      "fullDescription": "Conceptualized and designed key visual posters with a cinematic, high-contrast theme for 'Once Upon A Night' European-style Cosplay Prom at USSH Hanoi. Developed unified digital creative layouts across online platforms, establishing a cohesive visual identity that captured strong audience interest and digital interaction.",
+      "role": "Lead Graphic Designer",
+      "tools": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom"],
+      "externalLink": "https://behance.net",
+      "coverMediaUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "id": "m-1",
+          "name": "Once_Upon_A_Night_Poster.jpg",
+          "url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80",
+          "type": "image",
+          "isCover": true
+        },
+        {
+          "id": "m-2",
+          "name": "Event_Visual_Identity.jpg",
+          "url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1200&q=80",
+          "type": "image"
+        }
+      ],
+      "updatedAt": "2026-10-22T02:00:00.000Z"
+    },
+    {
+      "id": "proj-yec-events",
+      "slug": "young-economists-club-media",
+      "title": "Young Economists Club: Event Visual Direction",
+      "year": "2025",
+      "category": "Media Production",
+      "status": "published",
+      "isFeatured": true,
+      "orderIndex": 2,
+      "shortDescription": "Comprehensive video, photo, and graphic campaign for Meet & Connect Hackathon and university flagship events.",
+      "fullDescription": "Directed end-to-end media production (video, photography, graphics) and managed event execution teams for the Young Economists Club at UMT. Served on the Core Organizing Committee for Meet & Connect Hackathon DigiPort Logistics 2025 and Orientation Day 2026, successfully coordinating media and logistics across flagship events reaching hundreds of participants university-wide.",
+      "role": "Head of Media and Events",
+      "tools": ["Adobe Premiere Pro", "Adobe Photoshop", "Adobe Lightroom", "Canva", "Capcut Pro"],
+      "externalLink": "https://behance.net",
+      "coverMediaUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "id": "m-3",
+          "name": "DigiPort_Logistics_Cover.jpg",
+          "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+          "type": "image",
+          "isCover": true
+        },
+        {
+          "id": "m-4",
+          "name": "Hackathon_Event_Recap.mp4",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "video"
+        }
+      ],
+      "updatedAt": "2026-10-22T02:00:00.000Z"
+    },
+    {
+      "id": "proj-sma-branding",
+      "slug": "sma-umt-communications",
+      "title": "SMA – UMT: Faculty Media & Infographics",
+      "year": "2024",
+      "category": "Branding & Social",
+      "status": "published",
+      "isFeatured": true,
+      "orderIndex": 3,
+      "shortDescription": "Core media assets, infographics, photo quotes, and on-site event photography for faculty channels.",
+      "fullDescription": "Operated the official faculty fanpage for School of Media and Arts (SMA) at UMT. Designed core media assets including promotional posters, educational infographics, and branded photo quotes while covering live event photography to maintain consistent visual branding and boost student engagement.",
+      "role": "Multimedia Communications Collaborator",
+      "tools": ["Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Photography"],
+      "externalLink": "https://behance.net",
+      "coverMediaUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "id": "m-5",
+          "name": "SMA_Infographic_Series.jpg",
+          "url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1200&q=80",
+          "type": "image",
+          "isCover": true
+        }
+      ],
+      "updatedAt": "2026-10-22T02:00:00.000Z"
+    },
+    {
+      "id": "proj-ai-visuals",
+      "slug": "ai-integrated-campaign",
+      "title": "AI-Integrated Concept Design & Research",
+      "year": "2026",
+      "category": "AI & Research",
+      "status": "published",
+      "isFeatured": false,
+      "orderIndex": 4,
+      "shortDescription": "Experimental visual asset creation and research applying modern generative AI tools in brand storytelling.",
+      "fullDescription": "Exploration of AI-integrated asset creation pipelines combining generative tools with Adobe Illustrator and Photoshop for rapid visual prototyping and digital marketing campaign assets.",
+      "role": "Visual Concept Designer & AI Researcher",
+      "tools": ["Adobe Photoshop", "Adobe Illustrator", "AI Generation Pipelines", "Canva"],
+      "externalLink": "https://behance.net",
+      "coverMediaUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "media": [
+        {
+          "id": "m-6",
+          "name": "AI_Asset_Concept.jpg",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+          "type": "image",
+          "isCover": true
+        }
+      ],
+      "updatedAt": "2026-10-22T02:00:00.000Z"
+    }
+  ]
+}
